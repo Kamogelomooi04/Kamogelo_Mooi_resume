@@ -11,6 +11,30 @@
     font-size: 1.7rem;
 }
 
+#education{
+    font-size: .75rem;
+}
+
+.box{
+    height: 520px;
+    transition: all .8s;
+}
+
+.box:active{
+    background-position: left bottom;
+    color: white;
+    border: none;
+    box-shadow: 0 0 20px rgb(150, 211, 250);
+}
+
+#projects{
+    font-size: .75rem;
+}
+
+.box1{
+    height: 530px;
+}
+
 /*about section*/
 #pic img{
     width: 175px;
@@ -28,8 +52,4 @@
 
 #send{
     width: 20%;
-}
-
-.box1{
-    height: 700px;
 }
