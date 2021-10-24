@@ -292,12 +292,12 @@ html{
 }
 
 .btn2{
-    border: none;
+    border: solid;
     color: white;
     padding: 3px 7px;
     text-align: center;
     border-radius: 5px;
-    background-color: transparent;
+    background-color:  rgb(70, 74, 77);
     outline: none;
     transition: .6s ease;
 }
